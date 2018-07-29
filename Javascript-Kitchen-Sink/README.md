@@ -1,4 +1,4 @@
-The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
+<!-- The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
 
 Objectives
 
@@ -23,4 +23,4 @@ Check the number in the variable from the previous objective. If the number is e
 
 Submission
 
-Commit and your changes and push to github.
+Commit and your changes and push to github. -->
